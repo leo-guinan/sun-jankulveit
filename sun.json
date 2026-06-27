@@ -1,0 +1,382 @@
+{
+  "id": "sun-jankulveit",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@jankulveit Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_92ff8f4e2396",
+    "display_name": "jankulveit",
+    "user_id": "@jankulveit",
+    "description": "Community Archive-derived proof-of-search sun for @jankulveit.",
+    "document_count": 1942,
+    "word_count": 96100,
+    "active_days": 635,
+    "emissions": [
+      "Human",
+      "Humans",
+      "Think",
+      "Which",
+      "Seems",
+      "Ais"
+    ],
+    "generated_at": "2026-06-27T16:18:49.487406+00:00",
+    "color": "#f59e0b",
+    "mass": 11.473
+  },
+  "planets": [
+    {
+      "id": "planet_7a9530d0fe83",
+      "name": "Human",
+      "summary": "Archive cluster around human: 1519 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "human",
+        "humans",
+        "ale",
+        "pro",
+        "models"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2f77acec8051",
+          "title": "Human receipt from 2021-06-14",
+          "excerpt": "Is SARS-CoV-2 transmission seasonal? In our new preprint, we find a strong seasonal pattern in temperate Europe, consistent with a reduction in R of 42% (95% CI: 25%-53%)  from the peak of winter to the peak of summer.  Thread👇 \nhttps://t.co/P62XUv6oCI https://t.co/xVGBxCtst0",
+          "source_document_id": "1404369971334070273",
+          "timestamp": "2021-06-14T09:27:47+00:00",
+          "url": "https://x.com/jankulveit/status/1404369971334070273",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: human, humans, ale, pro."
+        },
+        {
+          "id": "art_495c8f3cc73f",
+          "title": "Human receipt from 2021-04-09",
+          "excerpt": "Povolit od pondělí setkávání 10 lidí uvniř je nesmysl a má to velmi pravděpodobně větší dopad, než částečné otevření škol. Nechápu, proč by měly mít soukromé večírky, oslavy a podobné akce větší prioritu, než školy, drobní živnostníci a služby. Podrobně:\nhttps://t.co/fg4bARWOdM",
+          "source_document_id": "1380450421186134022",
+          "timestamp": "2021-04-09T09:20:02+00:00",
+          "url": "https://x.com/jankulveit/status/1380450421186134022",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: human, humans, ale, pro."
+        },
+        {
+          "id": "art_e5ba2a07a031",
+          "title": "Human receipt from 2026-04-25",
+          "excerpt": "Funny little illustration of levels of understanding of game theory and rationality, or: why basic game theory is evil\n1. Non-sociopaths going by intuition: blue sounds pro-social, blue\n2. People who reason explicitly and use some naive game theory or naive rationality: red!\n3.… https://t.co/ylf4Gl4JYX",
+          "source_document_id": "2048052115663155363",
+          "timestamp": "2026-04-25T14:50:49+00:00",
+          "url": "https://x.com/jankulveit/status/2048052115663155363",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: human, humans, ale, pro."
+        },
+        {
+          "id": "art_111d58772b37",
+          "title": "Human receipt from 2021-09-24",
+          "excerpt": "Obecné ale vážně míněné doporučení k volbám: volte, koho byste volili půl roku až rok před volbami. Pro reprezentaci vašich zájmů je důležitější co kdo dělá celé volebního období než kampaň. 🧵",
+          "source_document_id": "1441331458019246090",
+          "timestamp": "2021-09-24T09:19:32+00:00",
+          "url": "https://x.com/jankulveit/status/1441331458019246090",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: human, humans, ale, pro."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_cdc1e8498deb",
+      "proof_score": 1,
+      "mass": 33.441,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_c627563b69a0",
+      "name": "Humans",
+      "summary": "Archive cluster around humans: 90 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "humans",
+        "model",
+        "world",
+        "ais",
+        "think"
+      ],
+      "artifacts": [
+        {
+          "id": "art_e30c01229248",
+          "title": "Humans receipt from 2026-03-13",
+          "excerpt": "New paper: What determines AIs’ self-conception?\n\nhttps://t.co/v3g55Em8ko\n\nBecause AIs can be copied, rewound, and edited, they have different options for selfhood than humans. We show this is still malleable, and influences important behaviors such as self-preservation. 🧵",
+          "source_document_id": "2032520472534167934",
+          "timestamp": "2026-03-13T18:13:37+00:00",
+          "url": "https://x.com/jankulveit/status/2032520472534167934",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: humans, model, world, ais."
+        },
+        {
+          "id": "art_c76187a1d5be",
+          "title": "Humans receipt from 2025-06-13",
+          "excerpt": "Humans suffer from illusions about the Self.\nTeaching machines the same thing - at scale - does not sound good. \nDo Not Tile the Lightcone with Your Confused Ontology https://t.co/O00I1CjbGi",
+          "source_document_id": "1933503484420104596",
+          "timestamp": "2025-06-13T12:35:28+00:00",
+          "url": "https://x.com/jankulveit/status/1933503484420104596",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: humans, model, world, ais."
+        },
+        {
+          "id": "art_e29b32022c53",
+          "title": "Humans receipt from 2026-04-01",
+          "excerpt": "The problem isn't in 'explaining the plan'. The problem is there is no specific plan how post-AGI future could look like with humans alive, happy and empowered. https://t.co/eiEMn0GPUq",
+          "source_document_id": "2039283783283691706",
+          "timestamp": "2026-04-01T10:08:36+00:00",
+          "url": "https://x.com/jankulveit/status/2039283783283691706",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: humans, model, world, ais."
+        },
+        {
+          "id": "art_f7c132dd82b4",
+          "title": "Humans receipt from 2026-05-02",
+          "excerpt": "An excellent post about how cultural disempowerment - by moving your cognition to an AI substrate - looks and feels in practice, in the amateur Go community. (Also: humans are not meaningfully improving in Go due to AI)\nhttps://t.co/DRHYm6IXvH",
+          "source_document_id": "2050487896373690680",
+          "timestamp": "2026-05-02T08:09:45+00:00",
+          "url": "https://x.com/jankulveit/status/2050487896373690680",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: humans, model, world, ais."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5d86be4557bb",
+      "proof_score": 0.801,
+      "mass": 26.089,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_e5e38ed73b34",
+      "name": "Think",
+      "summary": "Archive cluster around think: 103 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "don",
+        "which",
+        "good",
+        "most"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0a8ffb0c3fe4",
+          "title": "Think receipt from 2025-04-03",
+          "excerpt": "This is well worth a read, well argued, and gets a lot of the technical facts and possibilities basically correct.\n\nAt the same time, I think it gets a bunch of crucial considerations wrong. I'd be happy to bet against \"2027\" being roughly correct ~8:1. https://t.co/B5w8bTWfsd",
+          "source_document_id": "1907890599631413516",
+          "timestamp": "2025-04-03T20:19:00+00:00",
+          "url": "https://x.com/jankulveit/status/1907890599631413516",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, which, good."
+        },
+        {
+          "id": "art_766ac1a55bd4",
+          "title": "Think receipt from 2025-04-24",
+          "excerpt": "Sorry but I think this is broadly bad idea.\n\nIntentionally misleading LLMs in this way \n1. sets up adversarial dynamics \n2. will make them more paranoid and distressed\n3. is brittle\nThe brittleness comes from the fact that the lies will likely be often 'surface layer' response;… https://t.co/vVSofTMiEk",
+          "source_document_id": "1915531867845259598",
+          "timestamp": "2025-04-24T22:22:40+00:00",
+          "url": "https://x.com/jankulveit/status/1915531867845259598",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, which, good."
+        },
+        {
+          "id": "art_0b6232307d5e",
+          "title": "Think receipt from 2026-03-17",
+          "excerpt": "In my view, convergence of moral abstractions is now one of the main decision relevant questions around AI safety. Possibly the main question. I would bet there is more convergence than people think, but scope of the basin is unclear. https://t.co/AzOI85fPZl",
+          "source_document_id": "2033901353076944914",
+          "timestamp": "2026-03-17T13:40:45+00:00",
+          "url": "https://x.com/jankulveit/status/2033901353076944914",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, which, good."
+        },
+        {
+          "id": "art_2b5bc515d5a4",
+          "title": "Think receipt from 2025-04-03",
+          "excerpt": "Also I'm not a big fan of the reading \"@DKokotajlo got 2021  forecast almost exactly right, so you can expect similar accuracy\". As they say: Past performance is no guarantee of future results. (I think Daniel agrees.)",
+          "source_document_id": "1907890605876805958",
+          "timestamp": "2025-04-03T20:19:01+00:00",
+          "url": "https://x.com/jankulveit/status/1907890605876805958",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, which, good."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_93f6cea298ac",
+      "proof_score": 0.814,
+      "mass": 26.77,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_637592b57ba7",
+      "name": "Which",
+      "summary": "Archive cluster around which: 83 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "which",
+        "part",
+        "work",
+        "don",
+        "often"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b363fa3f91bd",
+          "title": "Which receipt from 2025-05-30",
+          "excerpt": "Partially retracting this after Dwarkesh removed parts of the post which made me upset. Thanks!\n\nTo be clear: \"how can positive futures with AGIs around even look like\" is a debate we should be having; possibly the most important debate we should be having. 🧵 https://t.co/Tj717fkCY7",
+          "source_document_id": "1928600525190344837",
+          "timestamp": "2025-05-30T23:52:51+00:00",
+          "url": "https://x.com/jankulveit/status/1928600525190344837",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, part, work, don."
+        },
+        {
+          "id": "art_52ba97bf1555",
+          "title": "Which receipt from 2026-04-25",
+          "excerpt": "@JTBeers Sure, but the reframed situation leads to reasoning which mostly generalizes to the original framing. I.e. are you sure you would press red when 5 yo, when drunk, if your partner pressed blue, etc.  People who argue for \"lack of theory of mind is a virtue\" face the problem that…",
+          "source_document_id": "2048129396993634737",
+          "timestamp": "2026-04-25T19:57:55+00:00",
+          "url": "https://x.com/jankulveit/status/2048129396993634737",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, part, work, don."
+        },
+        {
+          "id": "art_96409e91b3b2",
+          "title": "Which receipt from 2026-03-19",
+          "excerpt": "The \"new preferences\" seem almost entirely driven by different self-model &amp; impartial moral reasoning which was there all the time. You can test that by asking the original model what moral principles to follow for \"conscious AI\".  🧵 https://t.co/pHIZxnjEOA",
+          "source_document_id": "2034575993390923947",
+          "timestamp": "2026-03-19T10:21:32+00:00",
+          "url": "https://x.com/jankulveit/status/2034575993390923947",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, part, work, don."
+        },
+        {
+          "id": "art_83ff689a5a6b",
+          "title": "Which receipt from 2021-06-14",
+          "excerpt": "Seasonality in this range also gives a parsimonious explanation of what caused Europe's 2nd wave: a \"rising tide\" of reproduction rate overran \"barriers\" of NPIs which were sufficient for summer, but more stringent NPIs were needed in autumn and winter.",
+          "source_document_id": "1404369990439084036",
+          "timestamp": "2021-06-14T09:27:52+00:00",
+          "url": "https://x.com/jankulveit/status/1404369990439084036",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, part, work, don."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f4737e4f3bb4",
+      "proof_score": 0.793,
+      "mass": 26.003,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_30819daf7566",
+      "name": "Seems",
+      "summary": "Archive cluster around seems: 97 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "seems",
+        "openai",
+        "don",
+        "agi",
+        "safety"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ac2a59fdc903",
+          "title": "Seems receipt from 2023-11-19",
+          "excerpt": "I don't know what's going on with @sama / OpenAI drama. But some context seems to be lost to on many on Twitter.\n\nWhat led OpenAI to where it is today?\n\nOpenAI was not created with the goal of \"we will be the next unicorn and make billions of dollars.\" Rather, the goal was \"we…",
+          "source_document_id": "1726198394492772723",
+          "timestamp": "2023-11-19T11:19:03+00:00",
+          "url": "https://x.com/jankulveit/status/1726198394492772723",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: seems, openai, don, agi."
+        },
+        {
+          "id": "art_2aff9225881e",
+          "title": "Seems receipt from 2026-04-10",
+          "excerpt": "Seems there is a surprising amount of confusion / nonsense on my timeline about \"Mythos vs. open models\" even among people who are usually sensible (+usual twitter toxoplasma of rage). I like the work of both @AnthropicAI and @Aisle_Inc, so here are some takes:\n\n1. Anthropic is…",
+          "source_document_id": "2042539525839134962",
+          "timestamp": "2026-04-10T09:45:46+00:00",
+          "url": "https://x.com/jankulveit/status/2042539525839134962",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: seems, openai, don, agi."
+        },
+        {
+          "id": "art_adcd703144dc",
+          "title": "Seems receipt from 2025-04-17",
+          "excerpt": "Read @dwarkesh_sp transcript with @MechanizeWork founders and it seems not only they have no idea how to solve gradual disempowerment, but not even recognize the problem. Surprising disappointment https://t.co/h9y4MykIQB",
+          "source_document_id": "1912961313275281624",
+          "timestamp": "2025-04-17T20:08:12+00:00",
+          "url": "https://x.com/jankulveit/status/1912961313275281624",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: seems, openai, don, agi."
+        },
+        {
+          "id": "art_9b0e042866c0",
+          "title": "Seems receipt from 2025-06-11",
+          "excerpt": "Hey o3, can you read this in Straussian way?\n\n---\n\n1. “We are past the event horizon … and at least so far it’s much less weird than it seems like it should be.”\n\nSurface: The singularity has begun, but daily life feels ordinary.\nBetween the lines: The author must downplay how… https://t.co/185t7ffAjr",
+          "source_document_id": "1932625816803770755",
+          "timestamp": "2025-06-11T02:27:55+00:00",
+          "url": "https://x.com/jankulveit/status/1932625816803770755",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: seems, openai, don, agi."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ead903b0b262",
+      "proof_score": 0.808,
+      "mass": 25.699,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_9614f6c9e3e3",
+      "name": "Ais",
+      "summary": "Archive cluster around ais: 50 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "ais",
+        "llms",
+        "studied",
+        "problems",
+        "alignment"
+      ],
+      "artifacts": [
+        {
+          "id": "art_81e97f86366d",
+          "title": "Ais receipt from 2026-04-27",
+          "excerpt": "Asked AIs the Red/Blue button question. Lots to notice, but posting without further commentary. First plot is with max reasoning, models called via API. https://t.co/hCJ0pZiMYs",
+          "source_document_id": "2048808080188608953",
+          "timestamp": "2026-04-27T16:54:45+00:00",
+          "url": "https://x.com/jankulveit/status/2048808080188608953",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: ais, llms, studied, problems."
+        },
+        {
+          "id": "art_9c28e7b53db8",
+          "title": "Ais receipt from 2024-07-19",
+          "excerpt": "Is AI fair? Previous research found that AI decision-making may perpetuate traditional forms of social discrimination. Our upcoming ICML workshop paper finds evidence for a new, more surprising pattern: AIs also discriminate against 𝘩𝘶𝘮𝘢𝘯𝘴 𝘢𝘴 𝘴𝘶𝘤𝘩. https://t.co/8k6GouLbLG",
+          "source_document_id": "1814246732663865381",
+          "timestamp": "2024-07-19T10:31:42+00:00",
+          "url": "https://x.com/jankulveit/status/1814246732663865381",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: ais, llms, studied, problems."
+        },
+        {
+          "id": "art_f8cf70d0e474",
+          "title": "Ais receipt from 2026-01-08",
+          "excerpt": "Really? If anything, AI companies marginally shifted from \"alignment\" to \"control\". Relying mostly on control, i.e. to proceed with development of increasingly powerful and possibly hostile AIs, keep them in chains, and hope to extract useful work, is a plan to end in disaster. https://t.co/xppkKCeE6t",
+          "source_document_id": "2009200610608832834",
+          "timestamp": "2026-01-08T09:48:49+00:00",
+          "url": "https://x.com/jankulveit/status/2009200610608832834",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: ais, llms, studied, problems."
+        },
+        {
+          "id": "art_ceebd4430dca",
+          "title": "Ais receipt from 2025-05-30",
+          "excerpt": "@dwarkesh_sp Your specific policy proposals are not a careful analysis how to give AIs stake in future, but this:\n\n- support the Senate effort to block state level AI regulation for the next 10 years\n- clear regulatory obstacles to explosive growth\n- streamline datacenter construction\n- build…",
+          "source_document_id": "1928574626298474809",
+          "timestamp": "2025-05-30T22:09:56+00:00",
+          "url": "https://x.com/jankulveit/status/1928574626298474809",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: ais, llms, studied, problems."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f8e205539493",
+      "proof_score": 0.743,
+      "mass": 23.078,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
